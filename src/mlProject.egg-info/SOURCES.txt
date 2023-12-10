@@ -1,0 +1,13 @@
+README.md
+setup.py
+src/Chicken_Diesease_Classification/__init__.py
+src/Chicken_Diesease_Classification/components/__init__.py
+src/Chicken_Diesease_Classification/config/__init__.py
+src/Chicken_Diesease_Classification/config/configuration/__init__.py
+src/Chicken_Diesease_Classification/constants/__init__.py
+src/Chicken_Diesease_Classification/entity/__init__.py
+src/Chicken_Diesease_Classification/utils/__init__.py
+src/mlProject.egg-info/PKG-INFO
+src/mlProject.egg-info/SOURCES.txt
+src/mlProject.egg-info/dependency_links.txt
+src/mlProject.egg-info/top_level.txt
